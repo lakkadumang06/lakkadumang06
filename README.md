@@ -1,35 +1,40 @@
 <div align="center">
-  <img src="https://github.com/lakkadumang06/lakkadumang06/blob/main/umang-banner.png" alt="Umang Lakkad Banner" width="100%"/>
-</div>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&height=70&lines=Hello%2C+I'm+Umang+Lakkad+%F0%9F%91%8B;Fullstack+Developer;React+%7C+Next.js+%7C+AWS;PostgreSQL+%7C+MongoDB" alt="Typing SVG" />
-</h1>
-
-<p align="center">
-  <b>Building digital experiences with clean code and creative solutions</b>
-</p>
-
-<div align="center">
-  <a href="https://linkedin.com/in/umang-lakkad">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://instagram.com/im_umang_lakkad_06">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://fb.com/umang-lakkad">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook">
-  </a>
-  <a href="https://umang-resume-site.netlify.com">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio">
-  </a>
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=lakkadumang06&label=Profile%20views&color=6C63FF&style=flat" alt="profile views">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=300&section=header&text=Umang%20Lakkad&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20|%20Building%20Digital%20Experiences&descAlignY=51&descAlign=50" alt="Header"/>
 </div>
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" alt="coding animation" width="320"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&height=80&lines=Hello%2C+I'm+Umang+Lakkad+%F0%9F%91%8B;Fullstack+Developer+%F0%9F%9A%80;React+%7C+Next.js+%7C+AWS;Building+Amazing+Web+Apps;2%2B+Years+Experience" alt="Typing SVG" />
 </div>
+
+<div align="center">
+  <h3>💫 Building digital experiences with clean code and creative solutions</h3>
+</div>
+
+<div align="center">
+  <a href="https://linkedin.com/in/umang-lakkad" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn">
+  </a>
+  <a href="https://instagram.com/im_umang_lakkad_06" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram">
+  </a>
+  <a href="https://fb.com/umang-lakkad" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2" alt="Facebook">
+  </a>
+  <a href="https://umang-resume-site.netlify.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white&labelColor=FF5722" alt="Portfolio">
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=lakkadumang06&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views">
+  <img src="https://img.shields.io/github/followers/lakkadumang06?label=Followers&style=for-the-badge&color=6C63FF&labelColor=1a1a1a" alt="GitHub Followers">
+</div>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
   <h2>🚀 About Me</h2>
@@ -40,7 +45,7 @@
     <tr>
       <td>
         <ul>
-          <li>🌱 I'm currently learning <b>junior Fullstack Development</b></li>
+          <li>🌱 I'm currently learning <b>Expert Fullstack Development</b></li>
           <li>👨‍💻 Check out my portfolio: <a href="https://umang-resume-site.netlify.com">umang-resume-site.netlify.com</a></li>
           <li>💬 Ask me about <b>React.js, Next.js, Node.js , Nest.js - Web Development</b></li>
           <li>📫 Reach me at <b>umang.merndev@gmail.com</b></li>
@@ -95,11 +100,6 @@
 <div align="center">
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lakkadumang06&theme=radical&hide_border=true" alt="GitHub Streak Stats" width="500"/>
-</div>
-
-<div align="center">
-  <h2>🏆 GitHub Trophies</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=lakkadumang06&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
 </div>
 
 <br>
