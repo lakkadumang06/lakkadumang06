@@ -46,7 +46,7 @@
       <td>
         <ul>
           <li>🌱 I'm currently learning <b>Expert Fullstack Development</b></li>
-          <li>👨‍💻 Check out my portfolio: <a href="https://umang-resume-site.netlify.com">umang-resume-site.netlify.com</a></li>
+          <li>👨‍💻 Check out my portfolio: <a href="https://umang-portfolio-2026.vercel.app">umang-portfolio-2026.vercel.app</a></li>
           <li>💬 Ask me about <b>React.js, Next.js, Node.js , Nest.js - Web Development</b></li>
           <li>📫 Reach me at <b>umang.merndev@gmail.com</b></li>
           <li>⚡ Fun fact: <b>I value honesty and integrity above all else ❤️</b></li>
