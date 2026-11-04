@@ -27,6 +27,7 @@
 
 | Project | What it is | Stack |
 |---|---|---|
+| **[ERP-Agent](https://github.com/lakkadumang06/ERP_Agent)** ⭐ | LangGraph agent: reads invoices & purchase orders, validates them against an ERP via tool calls, human-in-the-loop review, multi-provider evals, MCP server · [live demo](https://erp-agent-u7bv.onrender.com/) | Python, LangChain, LangGraph, FastAPI, Docker |
 | **[AIVANA](https://aivana.com)** | AI marketplace & collaboration platform integrating multiple AI models, with an analytics admin panel | React, Next.js, TypeScript, Node.js, OpenAI & Anthropic APIs |
 | **Blacktail.ai** | Generative AI platform (Munich team): multiple AI models, GPU compute sharing; I built product features end to end | React, Next.js, Node.js, PostgreSQL |
 | **ERP suite** | ERPs for diamond manufacturing, jewellery rendering and FMCG with online store: stock, production, orders, invoicing | Next.js, Node.js, REST APIs, SQL/MongoDB, Azure |
@@ -34,7 +35,7 @@
 | **CRM** | Lead, application and follow-up tracking for an overseas education consultancy | Full-stack web, relational DB |
 | **Trippn.ai** | Full-stack travel planning app with auth and trip management | React, Node.js, Express, MongoDB |
 
-> Most client projects are in private repositories. Happy to walk through code and architecture in an interview.
+> Most client projects are in private repositories; ERP-Agent is public so you can read the code. Happy to walk through code and architecture in an interview.
 
 ### 💻 Tech stack
 
@@ -70,7 +71,7 @@
 
 ### 🌱 Currently
 
-- Building **erp-agent**: a LangGraph agent that turns invoices and purchase orders into validated ERP orders, with OpenAI/Claude, tool calling, human-in-the-loop and evals
+- Improving **[ERP-Agent](https://github.com/lakkadumang06/ERP_Agent)**: next up RAG over the product catalogue and PostgreSQL
 - Learning **SAP (BTP, Fiori/UI5, Joule Studio)** and improving my German (B1)
 
 ### 📊 GitHub stats
