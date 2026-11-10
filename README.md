@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <a href="https://linkedin.com/in/umang-lakkad-923212299" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://linkedin.com/in/umang-lakkad" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://lakkadumang.tech" target="_blank"><img src="https://img.shields.io/badge/Portfolio-lakkadumang.tech-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
   <a href="mailto:umanglakkad06@gmail.com"><img src="https://img.shields.io/badge/Email-umanglakkad06%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </div>
