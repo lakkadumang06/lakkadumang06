@@ -20,7 +20,7 @@
 - 💼 **2+ years of professional experience** building full-stack web apps, AI-powered products and ERP/CRM systems for clients in Germany, India and the USA
 - 🤖 I integrate **LLMs (OpenAI, Anthropic Claude)** into real business processes: document and data automation, AI platforms, agents
 - 🏭 Built **ERP systems** for manufacturing, jewellery and FMCG companies (stock, production, orders, invoicing) and a **CRM** for an education consultancy
-- 📍 Based in the **Frankfurt / Mainz area**, open to relocating · 🔎 **Looking for a Working Student (Werkstudent) role**: Full-Stack, AI engineering or process automation
+- 📍 Based in **Stuttgart**, open to relocating · 🔎 **Looking for a Working Student (Werkstudent) role**: Full-Stack, AI engineering or process automation
 - 🗣️ English (B2, professional) · German (A2, B1 in progress) · Gujarati & Hindi (native)
 
 ### 🛠️ Selected work
