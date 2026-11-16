@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#1c1840"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="0" x2="1">
+      <stop offset="0" stop-color="#6C63FF"/>
+      <stop offset="0.5" stop-color="#A78BFA"/>
+      <stop offset="1" stop-color="#6C63FF"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="0" x2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="0.45" stop-color="#ffffff"/>
+      <stop offset="0.5" stop-color="#C4B5FD"/>
+      <stop offset="0.55" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#ffffff"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-1 0;1 0" dur="4s" repeatCount="indefinite"/>
+    </linearGradient>
+    <style>
+      .t{font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif}
+      .name{font-size:64px;font-weight:800;opacity:0;animation:up 1s ease-out .2s forwards}
+      .role{font-size:24px;font-weight:600;fill:#A78BFA;opacity:0;animation:up 1s ease-out .7s forwards}
+      .tag{font-size:16px;fill:#c9d1d9;opacity:0;animation:up 1s ease-out 1.2s forwards}
+      .dot{animation:pulse 2s ease-in-out infinite}
+      .chip{animation:float 3s ease-in-out infinite}
+      .node{animation:pulse 2.4s ease-in-out infinite}
+      @keyframes up{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:translateY(0)}}
+      @keyframes pulse{0%,100%{opacity:1}50%{opacity:.3}}
+      @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-10px)}}
+    </style>
+  </defs>
+  <rect width="1200" height="260" fill="url(#bg)"/>
+  <path fill="url(#wave)" opacity=".35">
+    <animate attributeName="d" dur="8s" repeatCount="indefinite" values="
+      M0 215 Q150 185 300 215 T600 215 T900 215 T1200 215 V260 H0Z;
+      M0 215 Q150 245 300 215 T600 215 T900 215 T1200 215 V260 H0Z;
+      M0 215 Q150 185 300 215 T600 215 T900 215 T1200 215 V260 H0Z"/>
+  </path>
+  <path fill="url(#wave)" opacity=".7">
+    <animate attributeName="d" dur="6s" repeatCount="indefinite" values="
+      M0 235 Q200 255 400 235 T800 235 T1200 235 V260 H0Z;
+      M0 235 Q200 215 400 235 T800 235 T1200 235 V260 H0Z;
+      M0 235 Q200 255 400 235 T800 235 T1200 235 V260 H0Z"/>
+  </path>
+  <text class="t name" x="70" y="105" fill="url(#shine)">Umang Lakkad</text>
+  <text class="t role" x="72" y="145">Full-Stack &amp; AI Engineer · ERP / CRM Systems</text>
+  <circle class="dot" cx="80" cy="176" r="6" fill="#3fb950"/>
+  <text class="t tag" x="94" y="182">Available as a Werkstudent  ·  Furtwangen, Germany  ·  Open to relocation</text>
+  <!-- AI chip with network -->
+  <g class="chip">
+    <g stroke="#A78BFA" stroke-width="3" opacity=".8">
+      <line x1="1040" y1="60" x2="1040" y2="40"/><line x1="1015" y1="60" x2="1015" y2="40"/><line x1="1065" y1="60" x2="1065" y2="40"/>
+      <line x1="1040" y1="150" x2="1040" y2="170"/><line x1="1015" y1="150" x2="1015" y2="170"/><line x1="1065" y1="150" x2="1065" y2="170"/>
+      <line x1="995" y1="85" x2="975" y2="85"/><line x1="995" y1="125" x2="975" y2="125"/>
+      <line x1="1085" y1="85" x2="1105" y2="85"/><line x1="1085" y1="125" x2="1105" y2="125"/>
+    </g>
+    <rect x="995" y="60" width="90" height="90" rx="14" fill="#6C63FF"/>
+    <text x="1040" y="118" text-anchor="middle" class="t" font-size="34" font-weight="800" fill="#ffffff">AI</text>
+    <circle class="node" cx="1040" cy="36" r="5" fill="#C4B5FD"/>
+    <circle class="node" cx="1109" cy="125" r="5" fill="#C4B5FD" style="animation-delay:.8s"/>
+    <circle class="node" cx="971" cy="85" r="5" fill="#C4B5FD" style="animation-delay:1.6s"/>
+  </g>
+</svg>

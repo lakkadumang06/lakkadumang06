@@ -1,87 +1,185 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=220&section=header&text=Umang%20Lakkad&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20%26%20AI%20Developer%20%7C%20Working%20Student%20in%20Germany&descAlignY=56&descAlign=50" alt="Umang Lakkad – Full-Stack & AI Developer"/>
-</div>
+<!-- Header -->
+<a href="https://lakkadumang.tech"><img src="./assets/header.svg" width="100%" alt="Umang Lakkad — Full-Stack & AI Engineer" /></a>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&height=60&lines=Full-Stack+Developer+%7C+React+%C2%B7+Node.js+%C2%B7+Python;LLM+integration+%7C+OpenAI+%C2%B7+Anthropic+Claude;ERP+%26+CRM+systems+for+real+businesses;Open+to+Working+Student+roles+in+Germany" alt="Typing SVG" />
-</div>
+<p align="center">
+  <a href="https://lakkadumang.tech">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+Python;AI+Engineer+%7C+LangGraph+%C2%B7+RAG+%C2%B7+MCP+%C2%B7+LLM+Evals;ERP+%26+CRM+systems+for+real+businesses;Werkstudent+%C2%B7+available+immediately+%F0%9F%87%A9%F0%9F%87%AA" alt="Typing SVG" />
+  </a>
+</p>
 
-<div align="center">
-  <a href="https://linkedin.com/in/umang-lakkad" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://lakkadumang.tech" target="_blank"><img src="https://img.shields.io/badge/Portfolio-lakkadumang.tech-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
-  <a href="mailto:umanglakkad06@gmail.com"><img src="https://img.shields.io/badge/Email-umanglakkad06%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</div>
+<p align="center">
+  <a href="https://lakkadumang.tech"><img src="https://img.shields.io/badge/Portfolio-lakkadumang.tech-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/umang-lakkad"><img src="https://img.shields.io/badge/LinkedIn-Umang%20Lakkad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:umanglakkad06@gmail.com"><img src="https://img.shields.io/badge/Email-umanglakkad06%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://wa.me/4915236344157?text=Hi%20Umang%2C%20I%20found%20your%20GitHub%20profile%20and%20would%20like%20to%20get%20in%20touch."><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lakkadumang06&label=Profile%20views&color=6C63FF&style=flat-square" alt="profile views" />
+  <img src="https://img.shields.io/badge/Werkstudent-available%20immediately-3fb950?style=flat-square" alt="available" />
+  <img src="https://img.shields.io/badge/📍-Furtwangen,%20Germany-1A1A1A?style=flat-square" alt="location" />
+</p>
 
 ---
 
-### 👋 About me
+## 👋 About me
 
-- 🎓 **B.Sc. International Business Information Systems** student at Hochschule Furtwangen University (HFU), Germany · BCA (First Class)
-- 💼 **2+ years of professional experience** building full-stack web apps, AI-powered products and ERP/CRM systems for clients in Germany, India and the USA
-- 🤖 I integrate **LLMs (OpenAI, Anthropic Claude)** into real business processes: document and data automation, AI platforms, agents
-- 🏭 Built **ERP systems** for manufacturing, jewellery and FMCG companies (stock, production, orders, invoicing) and a **CRM** for an education consultancy
-- 📍 Based in **Stuttgart**, open to relocating · 🔎 **Looking for a Working Student (Werkstudent) role**: Full-Stack, AI engineering or process automation
-- 🗣️ English (B2, professional) · German (A2, B1 in progress) · Gujarati & Hindi (native)
+I'm **Umang**, a full-stack and AI engineer with **2+ years of professional experience** delivering production web apps, **LLM-powered automation** and **ERP/CRM systems** for clients in **Germany, India and the USA**.
+I build end to end: database design and secure APIs, React/Next.js interfaces, LangGraph agents and cloud deployment on Azure and AWS.
 
-### 🛠️ Selected work
+- 🎓 **B.Sc. International Business Information Systems** at Hochschule Furtwangen University (HFU), since 10/2026
+- 🚀 **Co-Founder & CEO of [LKR Code Orbit](https://www.lkrcodeorbit.tech)**: I co-lead the ERP/CRM practice for manufacturers, traders and D2C brands
+- 🤖 I turn business processes into working software with **Claude, OpenAI, LangGraph, RAG and MCP**
+- 🔎 **Looking for a long-term Werkstudent role** in software development, AI or ERP/SAP: up to 20 h/week in semester, full-time in breaks, remote / hybrid / on-site
+- 🗣️ English (B2) · German (A2 → B1) · Gujarati & Hindi (native)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/2%2B%20years-Professional%20experience-6C63FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/3-Countries%20with%20clients-8B5CF6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/4-Companies-1A1A1A?style=for-the-badge" />
+</p>
+
+---
+
+## 🤖 Open-source AI projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/lakkadumang06/ERP_Agent">🧾 ERP-Agent</a></h3>
+      LangGraph agent that reads invoices & purchase orders, validates them against an ERP via tool calls, and only saves orders a human would sign off on.
+      <br /><br />
+      <b>Highlights:</b> multi-LLM · tool calling · human-in-the-loop · evals · MCP server
+      <br /><br />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <br /><br />
+      <a href="https://erp-agent-u7bv.onrender.com/">▶️ Live demo</a> · <a href="https://github.com/lakkadumang06/ERP_Agent">📂 Code</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/lakkadumang06/DocuMind-RAG">📚 DocuMind</a></h3>
+      RAG knowledge assistant: ask questions about company documents and get answers that cite the exact source passage, or an honest "I don't know".
+      <br /><br />
+      <b>Highlights:</b> citations · vector search · English & German docs · CI
+      <br /><br />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square" />
+      <br /><br />
+      <a href="https://documind-web-zcgz.onrender.com">▶️ Live demo</a> · <a href="https://github.com/lakkadumang06/DocuMind-RAG">📂 Code</a>
+    </td>
+  </tr>
+</table>
+
+<sub>Demos run on Render's free tier, so the first request after idle time can take up to a minute.</sub>
+
+---
+
+## 🛠️ Client work
 
 | Project | What it is | Stack |
 |---|---|---|
-| **[ERP-Agent](https://github.com/lakkadumang06/ERP_Agent)** ⭐ | LangGraph agent: reads invoices & purchase orders, validates them against an ERP via tool calls, human-in-the-loop review, multi-provider evals, MCP server · [live demo](https://erp-agent-u7bv.onrender.com/) | Python, LangChain, LangGraph, FastAPI, Docker |
-| **[AIVANA](https://aivana.com)** | AI marketplace & collaboration platform integrating multiple AI models, with an analytics admin panel | React, Next.js, TypeScript, Node.js, OpenAI & Anthropic APIs |
-| **Blacktail.ai** | Generative AI platform (Munich team): multiple AI models, GPU compute sharing; I built product features end to end | React, Next.js, Node.js, PostgreSQL |
-| **ERP suite** | ERPs for diamond manufacturing, jewellery rendering and FMCG with online store: stock, production, orders, invoicing | Next.js, Node.js, REST APIs, SQL/MongoDB, Azure |
-| **IN-OUT** | Residency & visitor management with approval workflows, role-based access and real-time tracking | Next.js, Node.js, Express, MongoDB |
-| **CRM** | Lead, application and follow-up tracking for an overseas education consultancy | Full-stack web, relational DB |
-| **Trippn.ai** | Full-stack travel planning app with auth and trip management | React, Node.js, Express, MongoDB |
+| **ERP suite** · LKR Code Orbit | Custom ERPs for diamond jewellery manufacturing, a jewellery CAD studio, FMCG batch manufacturing and an organic food brand | Next.js, Node.js, PostgreSQL, MongoDB |
+| **Mobile ERP & gate-entry apps** | Mobile-first apps for perfume and frame manufacturers, plus a B2B diamond export portal | Ionic / Capacitor, Node.js |
+| **[AIVANA](https://aivana.com)** | AI marketplace: owned the frontend, API integration and auth backend, incl. Stripe subscriptions | React, Next.js, TypeScript, Node.js, Stripe |
+| **[Blacktail.ai](https://blacktail.ai)** · Munich | All-in-one generative-AI platform: image generation, chatbots, code creation | React, Next.js, TypeScript, PostgreSQL |
+| **IN-OUT** | Residency & visitor management with approval workflows and role-based portals | Next.js, Node.js, Express, MongoDB |
+| **CRM** · Arrival Overseas | Lead, application and follow-up tracking for an education consultancy | Next.js, Node.js, MongoDB |
+| **[Orris Care](https://orris.care)** · **Trippn.ai** | Health platform frontend and a full-stack travel planning app | React, FastAPI, Node.js, MongoDB |
 
-> Most client projects are in private repositories; ERP-Agent is public so you can read the code. Happy to walk through code and architecture in an interview.
+> Most client projects live in private repositories. ERP-Agent and DocuMind are public so you can read the code, and I'm happy to walk through architecture in an interview.
 
-### 💻 Tech stack
+---
 
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS">
-  <img src="https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white" alt="Express">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
-</p>
-<p>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI">
-  <img src="https://img.shields.io/badge/Anthropic_Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Anthropic">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
-</p>
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
+## 💼 Experience
+
+| Role | Company | Period |
+|---|---|---|
+| 🚀 **Co-Founder & CEO** | LKR Code Orbit · Surat (remote from Germany) | 2024 – present |
+| 🤖 **Full-Stack Engineer – AI/ML Solutions** | ITCODE Infotech · Surat | 02/2026 – 08/2026 |
+| 🎨 **Frontend / Full-Stack Web Engineer** | Blacktail.ai · Munich (remote) | 04/2025 – 08/2026 |
+| 💻 **Full-Stack Developer** | Sattvam Soft · Surat | 12/2024 – 01/2026 |
+| 🔧 **Backend Developer** | ITCODE Infotech US branch · New Jersey (remote) | 06/2023 – 11/2024 |
+
+---
+
+## 💻 Tech stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,angular,tailwind,nodejs,nestjs,express,fastapi&theme=dark" />
+  </a>
+  <br />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,azure,aws,gcp,docker,githubactions,vercel,pytorch,tensorflow&theme=dark" />
+  </a>
 </p>
 
-### 🌱 Currently
+<p align="center">
+  <img src="https://img.shields.io/badge/Anthropic_Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP-6C63FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SAP_BTP-learning-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
+</p>
 
-- Improving **[ERP-Agent](https://github.com/lakkadumang06/ERP_Agent)**: next up RAG over the product catalogue and PostgreSQL
-- Learning **SAP (BTP, Fiori/UI5, Joule Studio)** and improving my German (B1)
+<details>
+<summary><b>🔍 Full skill list</b></summary>
+<br />
 
-### 📊 GitHub stats
+| Area | Skills |
+|---|---|
+| **AI & LLM** | Claude API · OpenAI API · Gemini · LLaMA · Groq · LangChain · LangGraph · Agentic workflows & tool calling · RAG & vector search · Structured outputs · MCP · LLM evals · Prompt engineering · PyTorch · TensorFlow · scikit-learn · Pandas & NumPy |
+| **Frontend** | React · Next.js · TypeScript · JavaScript · Angular · Redux Toolkit · Tailwind CSS · Responsive UI from Figma |
+| **Backend** | Node.js · Express · NestJS · Python · FastAPI · REST API design · Auth & RBAC · Stripe |
+| **Business systems** | ERP & CRM development · Shopify & Amazon SP-API · Logistics APIs · GST invoicing · Process analysis · Requirements engineering · SAP BTP, Fiori/UI5, Joule Studio (learning) |
+| **Databases** | PostgreSQL · MySQL · MongoDB · DynamoDB · Qdrant · Schema design · Query optimisation |
+| **Cloud & DevOps** | Azure · AWS (EC2, S3, DynamoDB, Amplify) · Google Cloud · Vercel · Render · Docker · GitHub Actions · CI/CD · pytest |
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lakkadumang06&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakkadumang06&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" height="160"/>
-</div>
+</details>
 
-<div align="center">
-  <br>
-  <b>📫 Open to Working Student opportunities in Germany. Reach me at <a href="mailto:umanglakkad06@gmail.com">umanglakkad06@gmail.com</a></b>
-</div>
+---
+
+## 🌱 Currently
+
+- 🧾 Improving **[ERP-Agent](https://github.com/lakkadumang06/ERP_Agent)**: next up RAG over the product catalogue and PostgreSQL
+- 🏢 Learning **SAP (BTP, Fiori/UI5, Joule Studio)** through HFU's own SAP system
+- 🇩🇪 Improving my German from A2 to B1
+
+---
+
+## 📊 GitHub activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lakkadumang06/lakkadumang06/output/profile-night-rainbow.svg" />
+    <img width="100%" alt="3D contribution graph and stats" src="https://raw.githubusercontent.com/lakkadumang06/lakkadumang06/output/profile-season-animate.svg" />
+  </picture>
+</p>
+
+<p align="center">
+  <img height="165" src="https://streak-stats.demolab.com?user=lakkadumang06&theme=tokyonight&hide_border=true&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lakkadumang06/lakkadumang06/output/github-snake-dark.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/lakkadumang06/lakkadumang06/output/github-snake.svg" />
+  </picture>
+</p>
+
+---
+
+<p align="center">
+  <a href="mailto:umanglakkad06@gmail.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Hiring+a+Werkstudent%3F+Let's+talk!+%F0%9F%93%AB;Full-Stack+%C2%B7+AI+Engineering+%C2%B7+ERP%2FSAP;umanglakkad06%40gmail.com" alt="contact" />
+  </a>
+</p>
+
+<img src="./assets/footer.svg" width="100%" alt="" />

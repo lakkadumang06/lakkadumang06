@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="110" viewBox="0 0 1200 110">
+  <defs>
+    <linearGradient id="w" x1="0" x2="1">
+      <stop offset="0" stop-color="#6C63FF"/><stop offset="0.5" stop-color="#A78BFA"/><stop offset="1" stop-color="#6C63FF"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#w)" opacity=".4">
+    <animate attributeName="d" dur="7s" repeatCount="indefinite" values="
+      M0 40 Q300 0 600 40 T1200 40 V110 H0Z;
+      M0 40 Q300 80 600 40 T1200 40 V110 H0Z;
+      M0 40 Q300 0 600 40 T1200 40 V110 H0Z"/>
+  </path>
+  <path fill="url(#w)">
+    <animate attributeName="d" dur="5s" repeatCount="indefinite" values="
+      M0 65 Q300 95 600 65 T1200 65 V110 H0Z;
+      M0 65 Q300 35 600 65 T1200 65 V110 H0Z;
+      M0 65 Q300 95 600 65 T1200 65 V110 H0Z"/>
+  </path>
+</svg>
