@@ -17,7 +17,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lakkadumang06&label=Profile%20views&color=6C63FF&style=flat-square" alt="profile views" />
   <img src="https://img.shields.io/badge/Werkstudent-available%20immediately-3fb950?style=flat-square" alt="available" />
-  <img src="https://img.shields.io/badge/📍-Furtwangen,%20Germany-1A1A1A?style=flat-square" alt="location" />
+  <img src="https://img.shields.io/badge/📍-Vaihingen,%20Stuttgart-1A1A1A?style=flat-square" alt="location" />
 </p>
 
 ---

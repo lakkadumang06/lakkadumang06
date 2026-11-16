@@ -46,7 +46,7 @@
   <text class="t name" x="70" y="105" fill="url(#shine)">Umang Lakkad</text>
   <text class="t role" x="72" y="145">Full-Stack &amp; AI Engineer · ERP / CRM Systems</text>
   <circle class="dot" cx="80" cy="176" r="6" fill="#3fb950"/>
-  <text class="t tag" x="94" y="182">Available as a Werkstudent  ·  Furtwangen, Germany  ·  Open to relocation</text>
+  <text class="t tag" x="94" y="182">Available as a Werkstudent  ·  Stuttgart-Vaihingen, Germany  ·  Open to relocation</text>
   <!-- AI chip with network -->
   <g class="chip">
     <g stroke="#A78BFA" stroke-width="3" opacity=".8">
